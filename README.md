@@ -42,6 +42,8 @@ Before you begin, make sure you have the following prerequisites installed:
    - Add your MongoDB URL,
    - Add your Cloudinary Cloud name, api key and api secret to the `.env` file:
 
+   <br>
+
 
    ```
    OPENAI_API_KEY="your-openai-api-key"
@@ -81,6 +83,9 @@ We welcome contributions from the community! If you want to contribute to Visual
 ## License
 
 This project is licensed under the MIT License - see the [MIT](https://opensource.org/license/mit/) file for details.
+
+
+---
 
 
 Give a star if you like. Thank You.
